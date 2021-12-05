@@ -7,7 +7,7 @@
 * sql | postgres | mongodb | elastic
 * nix | ubuntu 
 * docker | docker-compose
-* vue | angular | react
+* vue | angular
 
 ## PROFESSIONAL EXPERIENCE
 
